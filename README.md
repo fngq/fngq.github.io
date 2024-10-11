@@ -1,2 +1,2 @@
 # fngq.github.io
-blog
+[fngq's blog](fngq.github.io)
