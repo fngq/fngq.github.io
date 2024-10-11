@@ -1,0 +1,2 @@
+# fngq.github.io
+blog
